@@ -1,5 +1,3 @@
-# Creating  documentation for the Collaborative Task Management Tool
-
 # Collaborative Task Management Tool Documentation
 
 ## Features
